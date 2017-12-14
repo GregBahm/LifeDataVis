@@ -6,6 +6,7 @@ using UnityEngine;
 public class SleepVisScript : MonoBehaviour 
 {
     public TextAsset SourceData;
+    public Material BoxMat;
 
     private void Start()
     {
@@ -23,7 +24,7 @@ public class SleepVisScript : MonoBehaviour
             GameObject cube = DrawBox(item.Start, item.End);
             cube.transform.parent = obj.transform;
         }
-        obj.transform.localScale = new Vector3(100f, 100, .1f);
+        obj.transform.localScale = new Vector3(100f, .1f, .1f);
     }
 
     private void DrawSleep(List<Awakeness> awakenessData)
@@ -36,20 +37,25 @@ public class SleepVisScript : MonoBehaviour
             GameObject cube = DrawBox(start, end);
             cube.transform.parent = obj.transform;
         }
-        obj.transform.localScale = new Vector3(100f, 100, .1f);
-        obj.transform.localPosition = new Vector3(-100, 0, 0);
+        obj.transform.localScale = new Vector3(.1f, .1f, .1f);
     }
 
     private GameObject DrawBox(DateTime start, DateTime end)
     {
         GameObject ret = GameObject.CreatePrimitive(PrimitiveType.Cube);
+        ret.GetComponent<MeshRenderer>().sharedMaterial = BoxMat;
         long span = end.Ticks - start.Ticks;
+        ret.name = start.ToString() + " to " + end.ToString() + ", length: " + new TimeSpan(span).ToString();
+
+        int day = start.DayOfYear;
+        day = day / 7;
+        start = start.AddDays(-day * 7);
+        end = end.AddDays(-day * 7);
         long mid = (end.Ticks + start.Ticks) / 2;
         float floatSpan = span / 1000000000;
         float floatMid = (mid - 636336327000000000) / 1000000000;
-        ret.transform.position = new Vector3(0, 0, floatMid);
-        ret.transform.localScale = new Vector3(1, 1, floatSpan);
-        ret.name = start.ToString() + " to " + end.ToString() + ", length: " + new TimeSpan(span).ToString();
+        ret.transform.position = new Vector3(day * 1.1f, floatSpan, floatMid);
+        ret.transform.localScale = new Vector3(1, floatSpan * 2, floatSpan);
         return ret;
     }
 
