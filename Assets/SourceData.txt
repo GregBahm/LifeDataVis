@@ -1,0 +1,927 @@
+﻿6/21/2017       - [Awake] 9:05am 
+				- [Shit] Minor
+                - [Ate] Steak and vegetables
+                - [Ate] Mocha
+                - [Ate] Sushi
+                - [Sleep] 1:30am
+6/22/2017       - [Awake] 10:00am 
+				- [Ate] Common’s Breakfast Burrito
+                - [Sleep] 3:15pm 
+                - [Awake] 7:00pm
+                - [Ate] Some sort of mango beverage
+                - [Sleep] 1:30am
+6/23/2017       - [Awake] 9:30am 
+				- [Ate] Burger with egg and vegetable tempura
+                - [Shit] medium amount
+                - [Ate] Glass of Fireball Whisky
+                - [Sleep] 6:00pm
+                - [Awake] 9:30pm
+                - [Felt] headache
+                - [Sleep] 1:30am
+6/24/2017        - [Awake] 8:45am
+                - [Shit] hard
+                - [Ate] Steak Fajitas and Margarita
+                - [Felt] raging headache
+                - [Meds] Headache pills and laxatives
+				- [Sleep] 2:00am
+6/25/2017        - [Awake] 9:00am
+                - [Felt] constipation
+                - [Ate] airplane food
+                - [Sleep] 3:00pm
+				- [Awake] 6:00pm
+				- [Ate] Scrambled Eggs, bacon and toast
+                - [Sleep] 9:00am
+6/26/2017       - [Awake] 11:00am
+                - [Shit] Really well
+                - [Sleep] 5:00pm 
+				- [Awake] 9:00pm
+                - [Shit] gross second shit
+                - [ate] chicken  salad sandwiches full of gluten
+                - [Sleep] 1:30 am
+6/27/2017        - [Awake] 8:00 am
+                - [Ate] Scrambled Eggs and Sausage
+                - [Ate] Duck and beef over rice
+                - [Shit] my guts out
+                - [Ate] 3 beers and a bunch of british pub food
+                - [Sleep] 10:00pm 
+				- [Awake] 3:00am
+                - [Sleep] 4:30am
+6/28/2017        - [Awake] 9:00am
+                - [Ate] Fishball and greens
+                - [Ate] Onion Soup, Steak and greens
+                - [Ate] 3 glasses of wine and a pint of cider
+                - [Sleep] 12:00am
+6/29/2017        - [Awake] 9:00am
+                - [Ate] Fish and Chips
+                - [Ate] Cranberry Juice and Kit Kat bar
+                - [Ate] Burger with regular bun and fries and cider
+                - [Shit] poop was pretty hard
+                - [Sleep] 3:00am
+6/30/2017        - [Awake] 8:30am
+                - [Ate] Roast Beef Sandwich and chips (not gluten free)
+                - [Ate] Steak, mushrooms, ice cream and cake (not gluten free)
+				- [Sleep] 1:00am
+7/01/2017        - [Awake] 8:00am
+                - [Ate] Cheese and fruit
+                - [Shit] Hard
+                - [Sleep] 10:30pm
+7/02/2017        - [Awake] 9:00am
+                - [Ate] Fried chicken cobb salad and farmhouse bloody mary
+                - [Shit] Regular Style
+				- [Sleep] 2:00am
+7/03/2017        - [Awake] 8:00am
+                - [Ate] Beef burrito with cheese, guac, on whole wheat
+                - [Ate] Cider
+                - [Ate] Fritos and bean dip
+                - [Felt] Gassy and constipated
+                - [Sleep] 10:00pm
+7/04/2017        - [Awake] 9:15am
+                - [Felt] very constipated
+                - [Shit] out a truck
+                - [Ate] homegrown sandwiches on gluten free bread
+                - [Ate] Mocha frap and McDonald's fries
+                - [Sleep] 2:30am
+7/05/2017        - [Awake] 8:30am
+                - [Ate] Diablo burger with gluten free bun, and fries
+                - [Shit] fine
+                - [Sleep] 12:15am
+7/06/2017        - [Awake] 9:15am
+                - [Ate] Catfish Clay Pot and rice + Ginger soda
+                - [Ate] Fried Chicken, mashed potatoes and coleslaw, plus habanero cider
+                - [Sleep] 3:00am
+7/07/2017        - [Awake] 9:00am
+                - [Ate] Half Bacon Egg Cheese Gluten Free Sandwich and coffee
+                - [Ate] Glass of White Wine and glass of IPA
+                - [Ate] Grande Apple Spice and Egg and Cheese Box
+                - [Sleep] 12:30am
+7/08/2017        - [Awake] 9:40am
+                - [Ate] Chicken Fried Steak and eggs with hashbrown and Mimosa 
+                - [Sleep] 1:00pm
+				- [Awake] 4:40pm
+                - [Ate] Two Ciders
+                - [Sleep] 2:30am
+7/09/2017        - [Awake] 10:45am
+                - [Ate] Steak Burrito with cheese and guac, plus Pineapple Nantucket Nectar
+                - [Ate] Very Berry Refresher from Starbucks
+                - [Felt] Mild Headache
+                - [Sleep] 2:25am
+7/10/2017        - [Awake] 9:05am
+                - [Ate] Frito Chili Pie
+                - [Shit] 2:30 rocks
+                - [Sleep] 2:00am
+7/11/2017        - [Awake] 9:05am
+                - [Ate] Sushi
+                - [Ate] Fried calamari and fried brussel sprouts
+                - [Sleep] 2:00am
+7/12/2017        - [Awake] 9:05am
+                - [Shit] 10:30pm rocks
+                - [Ate] Beef and broccoli teriyaki
+                - [Ate] 2 Ciders
+                - [Sleep] 1:30am
+7/13/2017        - [Awake] 8:55am
+                - [Ate] Diablo burger on gluten free bun, with fries
+                - [Ate] Iced mocha
+                - [Ate] Fried shrimp, and Chowder (probably containing gluten)
+                - [Sleep] 11:00pm
+7/14/2017        - [Awake] 9:05am
+                - [Shit] 11:00am out a truck
+                - [Ate] Ramen (with regular noodles) and small Sake
+                - [Ate] Cider and two Mike’s Hard Lemonade
+                - [Sleep] 7:00pm
+				- [Awake] 1:00am
+				- [Sleep] 5:45am
+7/15/2017       - [Awake] 11:00am
+                - [Ate] Steak Burrito with cheese and guac, plus Pineapple Nantucket Nectar
+				- [Shit] out a whole bunch of rocks
+				- [Sleep] 3:00am
+7/16/2017        - [Awake] 11:30am 
+                - [Ate] Zucchini quiche
+                - [Ate] Two large ciders and some wasabi peas
+                - [Shit] 2:30pm right
+                - [Sleep] 4:00am
+7/17/2017        - [Awake] 9:10am
+                - [Ate] Chinese fried chicken and rice
+                - [Felt] gassy
+                - [Shit] a little bit
+                - [Ate] Ostensibly gluten free ramen
+                - [Ate] Some more wasabi peas
+                - [Sleep] 2:00am
+7/18/2017        - [Awake] 8:55am
+                - [Ate] Chia
+                - [Shit] a very small amount
+                - [Ate] 2 Pork Tamales with rice and beans
+                - [Ate] Mocha
+                - [Ate] Sushi and plum wine
+                - [Ate] Some more wasabi peas
+                - [Sleep] 1:30am
+7/19/2017        - [Awake] 8:55am
+                - [Ate] Some sort of meat wrapped in bacon with vegetables and mashed potatoes
+                - [Ate] Mocha
+                - [Ate] Egg, olive, cauliflower, and almond snack pack
+                - [Sleep] 1:00am
+7/20/2017        - [Awake] 9:00am
+                - [Ate] Spare ribs, stuffed pepper, beans and potato salad
+                - [Ate] Cold Brew coffee
+                - [Sleep] 12:30am
+7/21/2017        - [Awake] 9:00am
+                - [Shit] Stool was a little hard and had the texture of many rocks
+                - [Ate] Burger with gluten free bun, vegetable tempura, and cider
+                - [Sleep] 4:00pm
+				- [Awake] 7:00pm
+                - [Ate] Some eggs, some grapes, and an Apple Spice
+                - [Felt] Stomach ache, gassy
+                - [Sleep] 3:00am
+7/22/2017        - [Awake] 11:00am
+                - [Ate] Omelette with fruit, hash browns, and orange juice
+                - [Shit] Pretty okay. Little on the hard side
+                - [Sleep] 6:00pm
+				- [Awake] 8:30pm
+                - [Felt] Gassy
+                - [Ate] Burrito and Mexican Coke
+                - [Sleep] 4:00am
+7/23/2017        - [Awake] 10:50am
+                - [Ate] Steak fajitas and a margarita
+                - [Felt] uncomfortably constipated
+                - [Ate] Cider, wasabi peas, and plantain chips
+                - [Felt] super anxious
+                - [Sleep] 1:30am
+7/24/2017        - [Awake] 9:05am
+                - [Shit] Quite well, 10:50am
+                - [Ate] Orange chicken over fried rice
+                - [Shit] Small, smooth, 3:30pm
+                - [Ate] Mocha
+                - [Sleep] 2:30am
+7/25/2017        - [Awake] 9:05am
+                - [Ate] Frito Chili Pie
+                - [Shit] Nice and easy
+                - [Ate] Burrito and some Wasabi peas
+                - [Sleep] 12:00am
+7/26/2017        - [Awake] 8:45am
+                - [Ate] Egg, rice, and peanut dish, plus Thai Iced Tea
+                - [Ate] Chicken Euro and Baklava (gluten present)
+                - [Sleep] 1:30am
+7/27/2017        - [Awake] 9:05am
+                - [Ate] Turkey, mashed potatoes, vegetables
+                - [Ate] IPA beer (gluten present) and a bunch of weird samplers
+                - [Sleep] 12:00am
+7/28/2017        - [Awake] 8:00am
+                - [Ate] Steak Fajitas and margarita
+                - [Shit] Pretty smooth, 3:00pm
+                - [Ate] Chicken pot pie (gluten present) and farmhouse bloody mary
+                - [Shit] Smooth and good, 11:45pm
+                - [Sleep] 4:00am
+7/29/2017        - [Awake] 11:15am
+                - [Ate] Burrito and Pineapple Nantucket Nectar
+                - [Sleep] 4:30am
+7/30/2017        - [Awake] 11:00am
+                - [Ate] Mocha
+                - [Shit] Large, smooth
+                - [Ate] Two boxes of rice chips, a thing of dip, two ciders, and some wasabi peas
+                - [Sleep] 1:30am
+7/31/2017		- [Awake] 9:05am
+				- [Ate] Can't remember
+				- [Sleep] 2:00am
+8/1/2017        - [Awake] 8:45am
+                - [Ate] Chicken fried steak with muffin and hash browns [gluten present]
+                - [Ate] Mocha Frappuccino and wasabi peas
+                - [Sleep] 1:30am
+8/2/2017        - [Awake] 8:45am
+                - [Ate] Frito Chili Pie
+                - [Ate] Plumb
+                - [Ate] Burrito and Nantucket Nectar, plus wasabi peas
+                - [Sleep] 1:30am
+8/3/2017        - [Awake] 9:05am
+                - [Ate] Gluten-free Diablo Burger with bacon and fries
+                - [Ate] Mocha
+                - [Shit] Soft, but with a weird texture
+                - [Ate] gluten free Ramen
+                - [Ate] A lot of wasabi nuts
+                - [Sleep] 2:30am
+8/4/2017        - [Vacation Begin]
+				- [Awake] 9:05am
+                - [Ate] Royal Burger [gluten present] plus cider and fries
+                - [Sleep] 7:00pm 
+				- [Awake] 10:00pm
+                - [Ate] Protein bistro box and mocha
+                - [Sleep] 4:00am
+8/5/2017        - [Awake] 10:00am
+                - [Ate] A bunch of dim sum [gluten present]
+                - [Shit] Really well
+                - [Sleep] 5:00pm
+				- [Awake] 8:00pm
+                - [Sleep] 12:30am
+8/6/2017        - [Awake] 9:40am
+                - [Ate] gluten free sandwich from Homegrown
+                - [Shit] Pretty good
+                - [Felt] lite headache
+                - [Ate] cider and wasabi peas
+                - [Ate] Mocha frappuccino
+                - [Sleep] 2:15am
+8/7/2017        - [Awake] 10:45am
+                - [Ate] Chipotle burrito
+                - [Sleep] 1:00am
+8/8/2017        - [Awake] 10:15am
+				- [Ate] Some Thai egg, rice, and peanut dish, and Thai tea
+                - [Ate] McDonalds fries and Mocha Frappuccino with no whip
+                - [Felt] A bit gassy
+                - [Sleep] 3:40am
+8/9/2017        - [Awake] 11:0am
+                - [Ate] Chipotle burrito
+                - [Ate] Banana Chips
+                - [Ate] Very Berry Fresher
+                - [Sleep] 1:00am
+8/10/2017        - [Awake] 1:15pm
+                - [Ate] Fried chicken from the Pomegranate 
+                - [Sleep] 4:50am
+8/11/2017        - [Awake] 11:30am
+                - [Felt] a pain in my side that may be a strained muscle
+                - [Sleep] 1:00pm
+				- [Awake] 5:30pm
+                - [Ate] Homegrown sandwich, vegetable chili, cold brew coffee
+                - [Ate] Trail mix and dried mango slices
+                - [Sleep] 2:15am
+8/12/2017        - [Awake] 2:30pm
+                - [Ate] Quiche and iced mocha
+                - [Ate] Trail mix and dried mango slices
+                - [Sleep] 12:10am
+8/13/2017        - [Awake] 2:00pm
+                - [Shit] A tiny amount
+                - [Shit] Great
+                - [Ate] Chipotle burrito and pineapple drink
+                - [Sleep] 1:30am
+8/14/2017        - [Vacation ends]
+                - [Awake] 8:55am
+                - [Ate] Carton of chocolate milk
+                - [Ate] Bowl of Phu full of mystery meat
+                - [Shit] Pretty good
+                - [Ate] KFC fried chicken with biscuit [gluten present], mashed potatoes and lemonade
+                - [Sleep] 1:45am
+8/15/2017        - [Awake] 8:55am
+                - [Ate] BBQ brisket, beans, and potato salad
+                - [Shit] Adequate
+                - [Ate] Chipotle usual
+                - [Sleep] 2:30am
+8/16/2017        - [Awake] 9:05am
+                - [Ate] Homegrown gluten free sandwich, vegetarian chili, and coffee
+                - [Ate] Iced mocha
+                - [Ate] Iced mocha
+                - [Ate] Seafood enchilada and margarita
+                - [Shit] quite a bit
+                - [Sleep] 2:00am
+8/17/2017        - [Awake] 9:05am
+                - [Ate] Stuffed portabello mushroom, mashed potato, and steamed vegetables
+                - [Ate] Mocha
+                - [Shit] soft, copious
+                - [Shit] another good shit
+                - [Ate] Gluten free dominos pizza with mushrooms, jalapenos, and olives
+                - [Sleep] 1:00am
+8/18/2017        - [Awake] 9:00am
+                - [Ate] Texicana Burger [gluten present] plus Cider and Mocha
+				- [Sleep] 6:45pm
+				- [Awake] 9:00pm
+				- [Ate] Mocha frapp and crescent [gluten present]
+				- [Sleep] 4:35am
+8/19/2017        - [Awake] 11:50am
+                - [Ate] Eggs benedicts with gravy [gluten [present]
+                - [Ate] Iced mocha
+                - [Sleep] 8:00pm
+				- [Awake] 11:00pm
+                - [Ate] Berry Drink
+                - [Sleep] 6:00am
+8/20/2017        - [Awake] 12:10pm
+                - [Ate] Chipotle Burrito, and Nantucket Nectar
+                - [Ate] A very gross cider
+                - [Ate] Those little sausage things
+                - [Ate] Some gluten free chips and dip
+                - [Sleep] 1:00am
+8/21/2017        - [Awake] 9:10am
+                - [Shit] a modest amount, smooth
+                - [Ate] Indian
+                - [Ate] Mocha
+                - [Ate] Gluten free chips and spinach cheese dip
+                - [Shit] Another small shit
+                - [Ate] Mocha and croissant 
+                - [Sleep] 3:00am
+8/22/2017        - [Awake] 9:10am
+                - [Ate] Chicken pot pie [gluten present]
+                - [Ate] Mocha
+                - [Ate] Sushi and plum wine
+                - [Sleep] 12:30am
+8/23/2017        - [Awake] 9:40am
+                - [Ate] Pork ribs, potato salad, and beans
+                - [Shit] Great, smooth
+                - [Ate] Vietnamese with noodles [gluten present]
+                - [Ate] 2 beers [gluten present] and a can of wine
+                - [Sleep] 1:30am
+8/24/2017        - [Awake] 9:10am
+                - [Ate] Gluten free burger and fries
+                - [Shit] Fine, smooth
+                - [Ate] Sweet and Sour Chicken and egg rolls [gluten present]
+                - [Ate] Wasabi peas
+                - [Sleep] 2:30am
+8/25/2017        - [Awake] 9:10am
+                - [Ate] Bratwurst and fries with cheese and bacon
+                - [Ate] A cider and a beer [gluten present]
+                - [Ate] Box of rice chips and some cheese dip
+                - [Sleep] 11:00pm
+8/26/2017        - [Awake] 9:30am
+                - [Ate] Chipotle Burrito
+                - [Shit] Well
+                - [Felt] Gassy
+                - [Ate] Wasabi nuts
+                - [Ate] Starbucks berry refresher
+                - [Sleep] 4:30am
+8/27/2017        - [Awake] 10:50am
+                - [Ate] Fried chicken strips, fries and boozy milkshake
+                - [Ate] Mocha and wasabi nuts
+                - [Shit] fine
+				- [Sleep] 2:30am
+8/28/2017        - [Awake] 9:10am
+                - [Ate] Chicken Fajitas
+                - [Ate] Mocha
+                - [Sleep] 2:30am
+8/29/2017        - [Awake] 9:05am
+                - [Ate] Gluten free Feedco burger with egg and cider
+                - [Ate] Sausage biscuit and mocha frap with no whip
+                - [Felt] Headache from playing too much XCOM
+                - [Sleep] 2:30am
+8/30/2017        - [Awake] 9:05am
+                - [Ate] Frito Chili pie and cornbread
+                - [Ate] Chips and dip
+                - [Sleep] 1:30am
+8/31/2017        - [Awake] 9:05am
+                - [Ate] Flank Steak, potatoes and vegetables
+                - [Ate] Mocha
+                - [Shit] small, smooth
+                - [Ate] Crab enchilada and margarita
+                - [Sleep] 12:30am
+9/01/2017        - [Awake] 8:55am
+                - [Ate] Yam noodles with two eggs
+                - [Ate] Chipotle and Pineapple Nantucket Nectar
+                - [Sleep] 2:00am
+9/02/2017        - [Awake] 10:40am
+                - [Ate] Mocha and Zucchini Quiche 
+                - [Shit] Out a car, but very soft and smooth
+                - [Ate] Mocha and sausage muffin
+                - [Sleep] 6:00am
+9/03/2017        - [Awake] 12:30pm
+                - [Ate] Gluten free chips and dip, peanuts, large bottle of sake
+                - [Sleep] 11:00pm
+9/04/2017        - [Awake] 9:00am
+                - [Ate] Steak fajitas on corn tortillas, and margarita
+                - [Ate] Some peanuts
+                - [Sleep] 11:00pm
+9/05/2017        - [Awake] 7:55am
+                - [Ate] Fish and chips
+                - [Ate] Cider, wine, and 2 beers [gluten present]
+                - [Sleep] 6:30pm
+				- [Awake] 8:30pm
+                - [Ate] Butter Chicken and rice
+                - [Felt] gassy
+                - [Sleep] 12:15am
+9/06/2017        - [Awake] 8:45am
+                - [Ate] Shrimp, potato, vegetables
+                - [Ate] Some candy bars
+                - [Shit] Big, very very oily
+                - [Ate] Fried Chicken Cobb Salad and Farmhouse Bloodymary
+                - [Shit] 4, smooth
+                - [Shit] 1
+                - [Sleep] 2:00am
+9/07/2017        - [Awake] 8:55am
+                - [Ate] Chocolate Milk
+                - [Ate] Frito Chili Pie
+                - [Ate] Sushi and plum wine
+                - [Ate] Olives, cheese, and some nuts
+                - [Sleep] 1:30am
+9/08/2017        - [Awake] 9:05am
+                - [Ate] Bacon, egg, cheese sandwich on gluten free bread, and vegetarian chili
+                - [Ate] Cup of mint ice cream
+                - [Ate] 3 Mike’s Hard Lemonades
+                - [Ate] Chipotle Burrito
+                - [Shit] 3, hard
+                - [Shit] 3, less hard
+                - [Sleep] 2:00am
+9/09/2017        - [Awake] 9:40am
+                - [Ate] Sesame Chicken and eggrolls
+                - [Ate] Some peanuts
+                - [Shit] 2
+                - [Sleep] 2:00am
+9/10/2017        - [Awake] 9:40am
+                - [Ate] Coffee
+                - [Ate] Chipotle usual plus chips and guac
+                - [Sleep] 2:30am
+9/11/2017        - [Awake] 9:07am
+                - [Ate] Yam noodle ramen and sake
+                - [Ate] Puerto Rican Shepard’s Pie
+                - [Sleep] 2:30am
+9/12/2017        - [Awake] 8:55am
+                - [Ate] Mocha
+                - [Ate] Chicken Pot Pie [gluten present]
+                - [Ate] Mocha
+                - [Ate] Baby back ribs and cider
+                - [Ate] A little bread pudding and coffee/tequila
+                - [Sleep] 12:50am
+9/13/2017        - [Awake] 9:05am
+                - [Ate] Frito Chili Pie and cornbread
+                - [Ate] Peanuts
+                - [Sleep] 2:15am
+9/14/2017        - [Awake] 8:55am
+                - [Ate] BBQ lunch
+                - [Ate] Mocha
+				- [Shit] 3, easy
+                - [Ate] Fried chicken cobb salad and Farmhouse Bloodymary
+                - Got hit by a car
+                - [Sleep] 1:30am
+9/15/2017        - [Awake] 8:55am
+                - [Ate] BBQ chicken and mashed potatoes
+                - [Shit] 4, lumpy
+                - [Ate] Butter chicken and rice
+                - [Sleep] 1:30am
+9/16/2017        - [Awake] 10:00am
+                - [Ate] Pupusa [gluten present]
+                - [Sleep] 11:30pm
+9/17/2017        - [Awake] 9:30am
+                - [Ate] Mocha
+                - [Ate] gluten free pizza
+                - [Shit] 5, lumpy
+                - [Ate] Bacon egg croissant and mocha [gluten present]
+                - [Sleep] 3:00am
+9/18/2017        - [Awake] 9:05am
+                - [Ate] Quinoa bowl with chicken
+                - [Shit] 1
+                - [Shit] 5
+                - [Ate] Sushi, plum wine, and wasabi peas
+                - [Sleep] 1:30am
+9/19/2017        - [Awake] 9:05am
+                - [Ate] BBQ beef with beans, potato salad, and stuffed peppers
+                - [Shit] 5
+                - [Ate] Box of rice chips and half a thing of garlic cheese spread
+                - [Sleep] 2:45am
+9/20/2017        - [Awake] 8:55am
+                - [Ate] Cheese, beef, and mushroom omelette, plus fruit
+                - [Ate] Chipotle usual
+                - [Sleep] 9:45pm
+9/21/2017        - [Awake] 8:55am
+                - [Ate] Broccoli beef with brown rice
+                - [Shit] 5, easy
+                - [Ate] Seafood enchilada and margarita
+                - [Sleep] 4:30am
+9/22/2017        - [Awake] 8:55am
+                - [Ate] Hot link sausage with bun [Gluten Present]
+                - [Ate] Mocha
+                - [Ate] Mocha frap and sausage, egg, biscuit 
+                - [Sleep] 5:30am
+9/23/2017        - [Awake] 12:30pm
+                - [Ate] Sweet and sour chicken with fried rice
+                - [Sleep] 11:00pm
+9/24/2017        - [Awake] 4:00am
+                - [Sleep] 7:40am
+				- [Awake]12:30pm
+                - [Ate] Some kind of fruit thing
+                - [Ate] Bottle of wine
+                - [Sleep] 11:30pm
+9/25/2017        - [Awake] 9:30am
+                - [Felt] stomach ache from wine
+                - [Shit] 5
+                - [Ate] Orange chicken and rice
+                - [Shit] 1
+                - [Ate] 3 ciders
+                - [Sleep] 12:30am
+9/26/2017        - [Awake] 8:45am
+                - [Ate] Chicken pot pie [gluten present]
+                - [Ate] Rice chips and dip, and some peanuts
+                - [Ate] 3 Ciders
+                - [Sleep] 2:30am
+9/27/2017        - [Awake] 8:55am
+                - [Shit] 5, easy
+                - [Ate] Gluten free diablo burger with bacon and fries
+                - [Ate] Mocha
+                - [Shit] 3, easy
+                - [Ate] 2 Ciders and some peanuts
+                - [Sleep] 3:00am
+9/28/2017        - [Awake] 8:55am
+                - [Ate] Frito chili pie
+                - [Sleep] 1:30am
+9/29/2017        - [Awake] 8:55am
+                - [Ate] 2 hard lemonade and 2 ciders
+                - [Ate] Gluten free pizza
+                - [Sleep] 4:00am
+9/30/2017        - [Awake] 11:00am
+                - [Shit] 5
+                - [Ate] California fatburger and fries [Gluten present]
+                - [Ate] Mocha frap and egg sandwich [Gluten present]
+                - [Sleep] 2:30am
+10/01/2017        - [Awake] 11:00am
+                - [Ate] Chipotle plus chips
+                - [Ate] Mocha and cider
+                - [Sleep] 2:15am
+10/02/2017        - [Awake] 9:15am
+                - [Shit] 1
+                - [Ate] Quinoa bowl with chicken
+                - [Shit] 1
+                - [Ate] Crab fried rice
+                - [Ate] 3 ciders
+                - [Sleep] 2:00am
+10/03/2017        - [Awake] 8:55am
+                - [Ate] Homegrown turkey bacon avocado sandwich on gluten free bread
+                - [Ate] cup of vegetarian chili
+                - [Ate] Scoop of ice cream
+                - [Ate] Sushi
+                - [Ate] Plumb wine and 3 ciders
+                - [Sleep] 1:00am
+10/04/2017        - [Awake] 8:30am
+                - [Ate] BBQ ribs with potato salad and beans
+                - [Ate] Mocha
+                - [Shit] 6
+                - [Shit] 2
+                - [Ate] Ginger Ale
+                - [Ate] Wasabi nuts
+                - [Sleep] 12:40am
+10/05/2017        - [Awake] 9:05am
+                - [Ate] Fried chicken and vegetables
+                - [Shit] 6, very smooth
+                - [Ate] Mocha
+                - [Felt] a little headache
+                - [Ate] Chipotle
+                - [Felt] Headache, gassy
+                - [Sleep] 12:00am
+10/06/2017        - [Awake] 9:05am
+                - [Felt] farts of the devil
+                - [Ate] Quinoa bowl with chicken
+                - [Ate] 3 ciders
+                - [Ate] McDonald’s fries
+                - [Sleep] 3:40am
+10/07/2017        - [Awake] 12:30pm
+                - [Ate] General Tso’s Chicken and crab rangoons
+                - [Ate] 3 ciders
+                - [Sleep] 1:00am
+10/08/2017        - [Awake] 10:00am
+                - [Shit] 5
+                - [Ate] Chipotle
+                - [Ate] Starbucks fruit and cheese box and 
+                - [Ate] Mocha Frap
+                - [Ate] Bottle of Port
+                - [Sleep] 1:00am
+10/09/2017        - [Awake] 9:05am
+                - [Shit] 6
+                - [Ate] Frito chili pie and cornbread
+                - [Ate] Mocha
+                - [Shit] 3
+                - [Ate] Buffalo chicken eggrolls
+                - [Ate] 2 Longbows
+                - [Sleep] 2:00am
+10/10/2017        - [Awake] 8:55am
+                - [Shit] 8, messy
+                - [Ate] Broccoli beef bowl
+                - [Ate] Mocha
+                - [Sleep] 3:00am
+10/11/2017        - [Awake] 9:05am
+                - [Ate] Yam Ramen with 2 eggs and sake
+                - [Ate] Mocha
+                - [Ate] Burger and fries [gluten present
+                - [Sleep] 2:00am
+10/12/2017        - [Awake] 9:05am
+                - [Shit] 3
+                - [Ate] Banana
+                - [Ate] Chicken fried steak with hash browns, fruit, and orange juice
+                - [Ate] Sausage Egg biscuit and chai 
+                - [Sleep] 3:00am
+10/13/2017        - [Awake] 9:10am
+                - [Ate] Korean hot pot with beef
+                - [Shit] 6
+                - [Ate] Butter Chicken
+                - [Sleep] 3:00am
+10/14/2017        - [Awake] 10:30am
+                - [Ate] Sushi and some sake
+                - [Sleep] 7:45pm
+10/15/2017        - [Awake] 2:30am
+                - [Ate] Quiche and coffee
+                - [Ate] Chipotle and chips + guac
+                - [Sleep] 1:30am
+10/16/2017        - [Awake] 9:55am
+                - [Ate] Fish and vegetables
+                - [Ate] Crab curry
+                - [Sleep] 2:30am
+10/17/2017        - [Awake] 9:05am
+                - [Ate] Calamari and Caesar salad from Italian restaurant
+                - [Felt] achy stomach
+                - [Ate] Sushi and plum wine
+                - [Ate] non-alcoholic cider
+                - [Sleep] 2:00am
+10/18/2017        - [Awake] 9:05am
+                - [Ate] Diablo burger with bacon and fries [gluten present]
+                - [Shit] 6, rough time
+                - [Shit] 4, of the devil
+                - [Ate] Cider
+                - [Sleep] 2:00am
+10/19/2017        - [Awake] 9:00am
+                - [Ate] Gluten free burger with egg, fried vegetables, cider
+                - [Ate] Some wasabi peas
+                - [Sleep] 1:00am
+10/20/2017        - [Awake] 10:00am
+                - [Ate] Grilled chicken salad and some bread [gluten present]
+                - [Sleep] 6:00pm
+                - [Awake] 9:00pm
+                - [Felt] a little headache
+                - [Ate] Sausage biscuit and very berry refresher
+                - [Sleep] 3:45am
+10/21/2017        - [Awake] 7:30am
+                - [Ate] Steak Fajitas on corn tortillas and margarita
+				- [Ate] Iced Chai
+				- [Sleep] 4:00am
+10/22/2017        - [Awake] 11:45am
+                - [Ate] Zucchini quiche and coffee
+                - [Sleep] 6:00pm
+                - [Awake] 10:00pm
+                - [Sleep] 3:30am
+10/23/2017        - [Awake] 9:05am
+                - [Ate] Honey sesame chicken
+                - [Felt] lite headache and gassiness
+                - [Shit] 3
+                - [Ate] Crab fried rice
+                - [Sleep] 1:00am
+10/24/2017        - [Awake] 9:05am
+                - [Ate] Scrambled Eggs, sausage, and fruit
+                - [Ate] Wine and some snacks
+                - [Ate] Some wasabi peas
+                - [Shit] 8, smooth
+                - [Sleep] 1:00am
+10/25/2017        - [Awake] 8:45am
+                - [Ate] Yam Ramen and sake
+                - [Ate] 2 Ciders
+                - [Sleep] 1:30am
+10/26/2017        - [Awake] 8:55am
+                - [Ate] Frito Chili Pie
+                - [Sleep] 2:00am
+10/27/2017        - [Awake] 9:05am
+                - [Ate] A whole lot of Sushi
+                - [Ate] Some wine and vegetables
+                - [Ate] Gluten-free burger and cider
+                - [Sleep] 10:00pm
+10/28/2017        - [Awake] 10:00am
+                - [Ate] Crab stuffed halibut and cider
+                - [Shit] 7, messy but not burning
+                - [Sleep] 1:15am
+10/29/2017        - [Awake] 10:15am
+                - [Sleep] 6:00pm
+                - [Awake] 8:00pm
+                - [Ate] Chipotle, chips with guac, and pineapple nantucket nectar
+                - [Ate] Some meatballs
+                - [Sleep] 12:30am
+10/30/2017        - [Awake] 8:55am
+                - [Ate] Crab curry with brown rice and thai-coffee
+                - [Shit] 3
+                - [Ate] Gluten free spaghetti and meatballs
+                - [Sleep] 8:00pm
+                - [Awake] 11:00pm
+                - [Sleep] 2:00am
+10/31/2017        - [Awake] 9:00am
+                - [Ate] Frito chili pie and cornbread
+                - [Ate] Small chai 
+                - [Ate] Fried chicken cobb salad and farmhouse bloody mary
+                - [Ate] Mocha Frappuccino
+                - [Sleep] 2:00am
+11/01/2017        - [Awake] 8:50am
+                - [Felt] stabby moments in my stomach
+                - [Ate] Quinoa bowl, fish, and flann
+                - [Shit] 4
+				- [Sleep] 2:00am
+11/02/2017        - [Awake] 9:05am
+                - [Ate] Gluten free diablo burger and fries
+                - [Felt] sore side muscles
+                - [Ate] 2 ciders and buffalo chicken spring roles
+                - [Sleep] 1:45am
+11/03/2017        - [Awake] 9:05am
+                - [Felt] quite sore side muscles
+                - [Shit] 3
+                - [Ate] Taco salad
+                - [Ate] KFC chicken fingers plus biscuit, cookie, and mashed potatoes [Gluten Present] 
+                - [Ate] Plum Wine
+                - [Sleep] 10:50pm
+11/04/2017        - [Awake] 10:30am
+                - [Shit] 3
+                - [Sleep] 5:00pm
+                - [Awake] 7:40pm
+                - [Ate] Chipotle burrito
+                - [Ate] bottle of honey wine
+                - [Sleep] 2:00am
+11/05/2017        - [Awake] 9:30am
+                - [Ate] Mongolian beef and eggrolls
+                - [Ate] Apple Spice
+                - [Sleep] 11:45pm
+11/06/2017        - [Awake] 8:25am
+                - [Ate] Diablo burger, fries and bacon [Gluten Present]
+                - [Ate] Cheese and olives
+                - [Sleep] 1:20am
+11/07/2017        - [Awake] 8:00am
+                - [Ate] Bacon egg and cheese sandwich on gluten free bread and cup of vegetarian chili 
+                - [Ate] Crab fried rice
+                - [Felt] Kind of upset stomach
+                - [Shit] 5
+                - [Sleep] 2:40am
+11/08/2017        - [Awake] 8:45am
+                - [Ate] Large burger with bacon and gluten free bread, plus onion rings
+                - [Ate] Some wasabi peas
+                - [Shit] 5
+                - [Sleep] 2:30am
+11/09/2017        - [Awake] 8:50am
+                - [Ate] Rice and some kind of asian beef
+                - [Ate] Mocha
+                - [Ate] Wasabi peas
+                - [Shit] 6
+				- [Sleep] 1:40am
+11/10/2017        - [Awake] 8:50am
+                - [Ate] 2 hot dogs [Gluten present]
+                - [Ate] 5 ciders and a vegetable party platter
+                - [Sleep] 3:00am
+11/11/2017        - [Awake] 8:00am
+                - [Ate] Thai e-sarn set
+                - [Ate] Some wasabi peas
+                - [Sleep] 2:00am
+11/12/2017        - [Awake] 10:5am
+                - [Ate] Empanada [Gluten present], Pina Colada, and  Pulled pork plate
+                - [Felt] lite headache
+                - [Ate] Starbucks very berry refresher
+                - [Sleep] 1:30am
+				
+11/13/2017    	- [Awake] 9:05am
+				- [Ate] Indian food
+				- [Ate] Chipotle Burrito and Guac and ships
+				- [Sleep] 12:30am
+11/14/2017    	- [Awake] 8:00am
+				- [Ate] Mocha
+				- [Ate] Chicken fried steak and eggs and fruit and hash browns and apple juice
+				- [Shit] 5, mildly messy
+				- [Ate] Steak and two glasses of wine
+				- [Sleep] 1:30am
+11/15/2017    	- [Awake] 8:55am
+				- [Ate] Sushi
+				- [Shit] 4
+				- [Sleep] 4:00pm
+				- [Awake] 8:50pm
+				- [Ate] Cheese and fruit box and peppermint mocha
+				- [Sleep] 4:15am
+11/16/2017    	- [Awake] 8:45am
+				- [Ate] Frito chili pie and cornbread
+				- [Sleep] 4:00am
+11/17/2017    	- [Awake] 8:45am
+				- [Shit] 4
+				- [Ate] Chicken pot pie [gluten present]
+				- [Ate] Wine and some random catering stuff
+				- [Ate] Burrito and chips and guac
+				- [Sleep] 8:15pm
+				- [Awake] 11:00pm
+				- [Sleep] 5:00am
+11/18/2017    	- [Awake] 10:30am
+				- [Ate] Gluten Free Quiche and a mocha
+				- [Shit] 5, smooth
+				- [Ate] Mocha and some fries
+				- [Sleep] 2:00am
+11/19/2017    	- [Awake] 10:00am
+				- [Shit] 4, kind of messy
+				- [Ate] 2 margaritas and steak fajitas on corn
+				- [Sleep] 6:00am
+11/20/2017    	- [Awake] 12:40pm
+				- [Shit] 7
+				- [Ate] 
+				- [Sleep] 7:15pm
+				- [Awake] 10:00pm
+				- [Sleep] 4:00am
+11/21/2017    	- [Awake] 12:00pm
+				- [Sweet and sour chicken and fried rice]
+				- [Sleep] 4:45am
+11/22/2017    	- [Awake] 12:30pm
+				- [Ate] Chips and dip
+				- [Sleep] 6:15am
+11/23/2017    	- [Awake] 12:00pm
+				- [Sleep] 8:00pm
+				- [Awake] 10:50pm
+				- [Ate] Steak, mashed potatoes, creamed spinach, glass of wine
+				- [Sleep] 2:15am
+11/24/2017    	- [Awake] 11:20am
+				- [Shit] 6, smooth
+				- [Ate] Chipotle Burrito and bottle of Sea Cider
+				- [Ate] Some wasabi peas
+				- [Ate] Coffee Mocha and Egg bites
+				- [Shit] 6, very loose
+				- [Sleep] 6:00am
+11/25/2017    	- [Awake] 12:30pm
+				- [Ate] Butter Chicken and rice
+				- [Sleep] 2:40am
+11/26/2017    	- [Awake] 2:00pm
+				- [Ate] Homegrown vegetarian chili and breakfast bowl with egg and potato
+				- [Sleep] 2:00am
+11/27/2017    	- [Awake] 9:30am
+				- [Ate] Feedco Texicana burger, cider, and tempura vegetables [Gluten present]
+				- [Ate] Americano
+				- [Ate] Some wasabi nuts
+				- [Shit] 6, large firm smooth turds
+				- [Sleep] 3:00am
+11/28/2017    	- [Awake]  9:10am
+				- [Ate] Frito Chili Pie and side of cornbread
+				- [Sleep] 4:00am
+11/29/2017    	- [Awake] 9:15am
+				- [Ate] Nachos
+				- [Ate] Beef Jerky Snack
+				- [Ate] Grocery Store Sushi and plum wine
+				- [Sleep] 11:00pm
+11/30/2017    	- [Awake] 11:45am
+				- [Ate] KFC [Gluten Present]
+				- [Sleep] 2:30am
+12/01/2017    	- [Awake] 9:10am
+				- [Ate] Corn tacos and vegetable chili
+				- [Shit] 5
+				- [Ate] Bottle of wine, cup of cheese, cup of cantaloupe, and salami bites
+				- [Sleep] 4:30am
+12/02/2017    	- [Awake] 11:00am
+				- [Ate] Fish and chips and caesar salad
+				- [Sleep] 4:00am
+12/03/2017    	- [Awake] 12:30pm
+				- [Ate] Bacon and egg breakfast sandwich and large coffee
+				- [Ate] Chipotle burrito with chips and guac
+				- [Felt] mild headache, probably from eyestrain
+				- [Sleep] 2:00am
+12/04/2017    	- [Awake] 9:10am
+				- [Shit] 6, one big log
+				- [Ate] Beef and broccoli rice bowl
+				- [Ate] Egg bowl with potato and bacon, plus vegetable chili from homegrown
+				- [Shit] 8, on the softer side
+				- [Sleep] 3:00am
+12/05/2017    	- [Awake] 11:00am
+				- [Ate] Gluten free Domino’s pizza with pepperoni, mushrooms, olives, jalapenos, and ranch
+				- [Shit] 6, smooth
+				- [Sleep] 3:00am
+12/06/2017    	- [Awake] 9:10am
+				- [Ate] Baked potato with chili
+				- [Felt] mild stomach ache
+				- [Ate] Apple spice from starbucks and Cheese and Fruit plate
+				- [Sleep] 3:30am
+12/07/2017    	- [Awake] 9:10am
+				- [Ate] Thai tea and crab fried rice
+				- [Shit] 2, messy
+				- [Sleep] 2:30am
+12/08/2017    	- [Awake] 9:10am
+				- [Ate] Beef and rice bowl
+				- [Ate] some ales
+				- [Ate] Protein bistro box and eggnog latte
+				- [Sleep] 2:00am
+12/09/2017    	- [Awake] 9:30am
+				- [Shit] 4, firm
+				- [Sleep] 3:30pm
+				- [Awake] 8:00pm
+				- [Ate] Chipotle Burrito and Seacider
+				- [Sleep] 3:40am
+12/10/2017    	- [Awake] 1:00pm
+				- [Ate] Butter Chicken 
+				- [Sleep] 10:30pm
+12/11/2017    	- [Awake] 9:10am
+				- [Ate] Eggs and bacon
+				- [Ate] Sushi
+				- [Ate] Mocha
+				- [Ate] cookies [gluten present] and some popcorn
+				- [Ate] Bacon and egg sandwich [gluten [present]
+				- [Shit] 7, hard
+				- [Sleep] 3:00am
+12/12/2017    	- [Awake] 9:05am
+				- [Ate] BBQ brisket with beans and cornbread
+				- [Ate] Mocha
